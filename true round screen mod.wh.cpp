@@ -9,6 +9,7 @@
 // @homepage        https://behance.net/mursman
 // @include         explorer.exe
 // @compilerOptions -lgdi32 -luser32 -lkernel32
+// @license         MIT
 // ==/WindhawkMod==
 
 // ==WindhawkModReadme==
